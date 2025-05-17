@@ -1,0 +1,24 @@
+# Camera
+oplus.camera.packname=com.oplus.camera
+oplus.camera.activityname=com.oplus.camera
+ro.oplus.system.camera.name=com.oplus.camera
+
+# Display
+persist.odm.oplus.hdcp.support=1
+ro.vendor.oplus.display.cwb.aod_forbidden=1
+ro.vendor.oplus.display.cwb.fod_forbidden=1
+ro.vendor.oplus.display.cwb.display_id=0
+ro.vendor.oplus.display.cwb.postprocess=1
+ro.vendor.oplus.display.cwb.roi=1
+
+# Media
+ro.odm.build.media_performance_class=31
+
+# NFC
+ro.camera.notify_nfc=1
+
+# Picture Quality
+persist.vendor.sys.pq.disp.ccorr.silky.brightness=1
+
+# Sensor
+ro.vendor.oplus.sensor.report_brightness=true
