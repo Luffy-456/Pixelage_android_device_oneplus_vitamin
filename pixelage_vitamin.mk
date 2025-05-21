@@ -10,9 +10,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from the custom device configuration.
 $(call inherit-product, device/oneplus/vitamin/device.mk)
 
-# Inherit from the ProjectPixelage configuration.
-$(call inherit-product, vendor/pixelage/config/common_full_phone.mk)
-
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
