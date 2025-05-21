@@ -31,3 +31,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=CPH2493EEA \
     SystemDevice=OP556FL1 \
     SystemName=CPH2493EEA
+
+#Pixelge Flags
+PIXELAGE_MAINTAINER := LuffyOP
