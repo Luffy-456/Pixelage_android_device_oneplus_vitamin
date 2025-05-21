@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_vitamin.mk
+    $(LOCAL_DIR)/pixelage_vitamin.mk
