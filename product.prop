@@ -6,3 +6,11 @@ ro.oplus.mtk_gps_mpe=1
 
 # SystemUI
 persist.sysui.disableBlur=true
+
+# Usb debugging
+persist.sys.usb.config=mtp,adb
+ro.adb.secure=0
+ro.debuggable=1
+
+# Ramdisk
+ro.force.debuggable=true
